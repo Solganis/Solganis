@@ -1,4 +1,4 @@
-> I build tools I use myself, and hope they're useful to others too.
+> I build tools I use myself, and share what might help others.
 
 **Build:** test automation tools and frameworks for web, desktop, mobile, and API; security-aware (OWASP).\
 **Interested in:** software architectures, design patterns, and their application to test frameworks and programs.\
